@@ -1,0 +1,15 @@
+{
+    "main-setting": "Paramètres principaux",
+    "render-setting": "Afficher la barre de mana ?",
+    "render-setting-des": "Si activé, le jeu affichera la barre de mana.",
+
+    "position-settings": "Paramètres de position",
+    "bar-x-position": "Décalage X",
+    "bar-x-position-des": "Paramètre le décalage sur l’axe X.\nSi la valeur est trop haute, la barre peut apparaître large.",
+    "bar-y-position": "Décalage Y",
+    "bar-y-position-des": "Paramètre le décalage sur l’axe Y.\nSi la valeur est trop haute, la barre peut apparaître large.",
+
+    "additional-settings": "Paramètres supplémentaires",
+    "size-multiplier": "Multiplicateur de taille de barre",
+    "size-multiplier-des": "Paramètre le multiplicateur de taille de barre qui s’applique lorsque vous atteignez le niveau max de mana."
+}
